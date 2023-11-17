@@ -1,6 +1,6 @@
 <?php
 
-$phone = '170*****';
+$phone = '1800501422';
 
 class Sms
 {
